@@ -1,0 +1,24 @@
+{
+  "name": "proyecto2_festival_de_musica",
+  "version": "1.0.0",
+  "description": "Aprendiendo SASS y NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/versoftly/Portafolio__Proyecto2--festival-de-musica.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "GULP"
+  ],
+  "author": "Ramiro Garcia Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/versoftly/Portafolio__Proyecto2--festival-de-musica/issues"
+  },
+  "homepage": "https://github.com/versoftly/Portafolio__Proyecto2--festival-de-musica#readme"
+}
