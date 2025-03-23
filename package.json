@@ -2,11 +2,11 @@
   "name": "proyecto2_festival_de_musica",
   "version": "1.0.0",
   "description": "Aprendiendo SASS y NPM",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "sass": "sass --watch src/scss:build/css",
-    "hola": "gulp hola"
+    "css": "gulp css"
   },
   "repository": {
     "type": "git",
@@ -27,6 +27,7 @@
     "sass": "^1.86.0"
   },
   "devDependencies": {
-    "gulp": "^5.0.0"
+    "gulp": "^5.0.0",
+    "gulp-sass": "^6.0.1"
   }
 }
